@@ -81,6 +81,7 @@ class Board:
         self.screen.refresh()
 
     def draw_board(self):
+        curses.use_default_colors()
         self.screen.clear()
 
         with open('board', 'r') as board_file:
