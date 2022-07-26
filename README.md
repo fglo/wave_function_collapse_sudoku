@@ -6,4 +6,4 @@ Because of the way Wave Function Collapse works, it is possible (and quite commo
 
 ![sudoku solving recording](./img/sudoku_smaller.gif)
 
-This project is a way to see how to implement Wave Function Collapse algorithm, not to solve Sudokus :v
+This project was created to explore how Wave Function Collapse algorithms work, not to solve Sudokus :v (maybe it will change in the future).
